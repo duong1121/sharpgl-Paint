@@ -1,9 +1,15 @@
 # sharpgl-Paint
 ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN KHOA CÔNG NGHỆ THÔNG TIN
+
 Đồ họa máy tính 
+
 Báo cáo lab 03 
+
 Họ và tên :Lê Âu Xuân Dương 
+
 MSSV :19120488
+
+**Lab: ứng dụng thư viện Sharp GL để xây dựng 1 công cụ vẽ tương tự như Paint**
 
 ![image](https://github.com/duong1121/sharpgl-Paint/assets/75771867/56c6945f-ac5a-4a9d-b198-f78b649d524c)
 
